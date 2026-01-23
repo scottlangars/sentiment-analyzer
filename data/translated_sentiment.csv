@@ -1,0 +1,5 @@
+Text,Predicted_Sentiment,Confidence_Score
+1	The service was excellent and quick.	en,POSITIVE,0.9646
+"2	""Poor response time",NEGATIVE,0.8283
+3	The staff were polite and helpful.	en,POSITIVE,0.9229
+4	Delay in approval process is frustrating.	en,NEGATIVE,0.8675
