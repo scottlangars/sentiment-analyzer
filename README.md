@@ -1,13 +1,3 @@
----
-title: AI Sentiment Analyzer
-emoji: 💬
-colorFrom: blue
-colorTo: purple
-sdk: docker
-pinned: false
-license: mit
----
-
 # 💬 AI Sentiment Analyzer
 
 Advanced Customer Feedback Analysis with NLP and Deep Learning
@@ -77,10 +67,6 @@ MIT License - feel free to use this project for personal or commercial purposes.
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-## 👨‍💻 Author
-
-Built with ❤️ by the AI Community
 
 ---
 
