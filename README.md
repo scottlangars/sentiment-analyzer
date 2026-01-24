@@ -51,7 +51,6 @@ text
 This application uses the **RoBERTa** model fine-tuned for sentiment analysis:
 - Model: `cardiffnlp/twitter-roberta-base-sentiment-latest`
 - Labels: POSITIVE, NEUTRAL, NEGATIVE
-- Average Accuracy: ~85%
 
 ## 🛡️ Privacy
 
